@@ -129,8 +129,6 @@ Aseguré que todas las animaciones y transiciones funcionaran correctamente.
 
 
 
-
-
 7. Conclusión
 Este proyecto fue una excelente oportunidad para aplicar mis conocimientos de Vue.js y Vite. Aprendí a:
 
@@ -143,3 +141,18 @@ Manejar el estado de la aplicación con la Composition API.
 Diseñar interfaces de usuario modernas y responsivas.
 
 El resultado final es un formulario de registro funcional, atractivo y fácil de usar, que cumple con todos los requisitos establecidos.
+
+
+
+visualizacion grafica del funcionamiento de la interfaz 
+
+![imagen 1](https://github.com/user-attachments/assets/a8ac9951-8ba8-4415-bc5a-943d303c77bb)
+![imagen 2](https://github.com/user-attachments/assets/1c45ef88-c1a3-447b-92f1-99e07d5ec165)
+![imagen 3](https://github.com/user-attachments/assets/98197bd3-7bf9-475b-bbcb-44783205bfae)
+
+
+
+
+
+
+
